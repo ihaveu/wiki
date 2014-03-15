@@ -1,1 +1,1 @@
-# [编程维基百科](https://github.com/ihaveu/wiki/wiki)
+# [编程百科](https://github.com/ihaveu/wiki/wiki)
